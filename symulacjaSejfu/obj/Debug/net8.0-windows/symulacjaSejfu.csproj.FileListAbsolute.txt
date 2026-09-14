@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\bin\Debug\net8.0-windows\symulacjaSejfu.exe
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\bin\Debug\net8.0-windows\symulacjaSejfu.deps.json
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\bin\Debug\net8.0-windows\symulacjaSejfu.runtimeconfig.json
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\bin\Debug\net8.0-windows\symulacjaSejfu.dll
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\bin\Debug\net8.0-windows\symulacjaSejfu.pdb
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.Form1.resources
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.AssemblyInfo.cs
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.dll
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\refint\symulacjaSejfu.dll
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.pdb
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\symulacjaSejfu.genruntimeconfig.cache
+C:\Users\User\source\repos\symulacjaSejfu\symulacjaSejfu\obj\Debug\net8.0-windows\ref\symulacjaSejfu.dll
