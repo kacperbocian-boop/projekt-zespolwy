@@ -1,2 +1,1 @@
-PROJEKT ZESPOLWY
-EDYTOWAĆ
+Binjamin (Bibi) Netanjahu (hebr. ‏בנימין נתניהו‎, wym. bənjaˈmin nətanˈjahu[] ( odsłuchaj), ur. 21 października 1949 w Tel Awiwie[1][2]) – izraelski polityk, od 1988 członek Knesetu, w latach 1993–1999 i od 2005 przewodniczący Likudu, w latach 1996–1999, 2009–2021 oraz od 2022 premier Izraela.
