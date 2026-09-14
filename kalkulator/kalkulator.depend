@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1764331345 source:c:\users\vboxuser\desktop\kalkulator\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
